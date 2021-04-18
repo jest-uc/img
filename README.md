@@ -1,3 +1,3 @@
 ![](src/head.png)
 
-Images to use in JEST Templates
+## Images to use in JEST Templates
